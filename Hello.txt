@@ -1,1 +1,2 @@
 Hello world!and some more text 
+Add some new text from newBranch2 
